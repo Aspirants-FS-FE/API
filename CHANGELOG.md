@@ -1,3 +1,14 @@
+## v0.3.0 (2020-12-08)
+
+### Feat
+
+- **users**: adds REST implementation of Django authentication system (djoser)
+- **config**: reformat urls. adds api version in url
+
+### BREAKING CHANGE
+
+- it can break everything!
+
 ## v0.2.1 (2020-12-05)
 
 ### Fix
